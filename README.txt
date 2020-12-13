@@ -18,19 +18,19 @@
 Открыть проект в Visual Studio->Проект->Свойства Проекта->
 C/C++->Общие->Дополнительный каталоги включаемых файлов->
 (Прописыаем маршруты:
-"...\MyGraphic\bin\Библиотеки\glm"
-"...\MyGraphic\bin\Библиотеки\include\glaux"
-"...\MyGraphic\bin\Библиотеки\include\glew"
-"...\MyGraphic\bin\Библиотеки\include\glfw"
-"...\MyGraphic\bin\Библиотеки\include\glut\GL")
+"...\bin\Библиотеки\glm"
+"...\bin\Библиотеки\include\glaux"
+"...\bin\Библиотеки\include\glew"
+"...\bin\Библиотеки\include\glfw"
+"...\bin\Библиотеки\include\glut\GL")
 
 2. Каталоги библиотек:
 Компоновщик->Дополнительные каталоги библиотек->
 (Прописываем маршруты:
-...\MyGraphic\bin\Библиотеки\lib\glut
-...\MyGraphic\bin\Библиотеки\lib\glfw\lib-vc2017"
-...\MyGraphic\bin\Библиотеки\lib\glew
-...\MyGraphic\bin\Библиотеки\lib\glaux)
+...\bin\Библиотеки\lib\glut
+...\bin\Библиотеки\lib\glfw\lib-vc2017"
+...\bin\Библиотеки\lib\glew
+...\bin\Библиотеки\lib\glaux)
 
 3. Зависимости:
 Компоновщик->Ввод->Дополнительные зависимости->
